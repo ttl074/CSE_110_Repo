@@ -27,6 +27,6 @@ Favorite Types of Cuisine:
 4. Italian
 5. Cajun<br />
 Favorite Quote: 
-> These young guys are playing checkers. I'm out there playing chess. - Kobe Bryant
-Good Memes:
+> These young guys are playing checkers. I'm out there playing chess. - Kobe Bryant <br />
+Good Memes: /
 [IS THIS](https://cdn.vox-cdn.com/thumbor/ka3Ms2H5-IqCxnzTYS9SJKFqXgw=/0x0:500x375/1920x0/filters:focal(0x0:500x375):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10835833/n4scgse21iuz.jpg)
